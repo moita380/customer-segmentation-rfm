@@ -1,15 +1,15 @@
-# Customer Segmentation - RFM Analysis
+# Customer Segmentation using RFM Analysis
 
-## Overview
-Customer segmentation project using RFM (Recency, Frequency, Monetary) analysis on Online Retail data.
+## Project Overview
+This project segments customers of an online retail store using **RFM (Recency, Frequency, Monetary)** analysis. The goal is to identify different customer groups and provide actionable business recommendations.
 
-## Tools
-- Python (Pandas, Seaborn, Matplotlib)
+## Tools Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - MySQL
 - Excel
 - Jupyter Notebook
 
-## Segments
+## RFM Segments
 - Champions
 - Loyal Customers
 - Potential Loyalists
@@ -17,6 +17,11 @@ Customer segmentation project using RFM (Recency, Frequency, Monetary) analysis 
 - At Risk
 - Need Attention
 - Lost
+
+## Key Insights
+- Champions and Loyal Customers are the most valuable segments.
+- A significant number of customers are Lost or At Risk.
+- Targeted marketing can be applied based on each segment.
 
 ## Author
 Moita
